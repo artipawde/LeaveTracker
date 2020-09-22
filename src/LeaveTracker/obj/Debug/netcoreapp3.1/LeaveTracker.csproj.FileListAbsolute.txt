@@ -1,0 +1,13 @@
+E:\Assignment_01\leavetracker\src\LeaveTracker\bin\Debug\netcoreapp3.1\LeaveTracker.exe
+E:\Assignment_01\leavetracker\src\LeaveTracker\bin\Debug\netcoreapp3.1\LeaveTracker.deps.json
+E:\Assignment_01\leavetracker\src\LeaveTracker\bin\Debug\netcoreapp3.1\LeaveTracker.runtimeconfig.json
+E:\Assignment_01\leavetracker\src\LeaveTracker\bin\Debug\netcoreapp3.1\LeaveTracker.runtimeconfig.dev.json
+E:\Assignment_01\leavetracker\src\LeaveTracker\bin\Debug\netcoreapp3.1\LeaveTracker.dll
+E:\Assignment_01\leavetracker\src\LeaveTracker\bin\Debug\netcoreapp3.1\LeaveTracker.pdb
+E:\Assignment_01\leavetracker\src\LeaveTracker\obj\Debug\netcoreapp3.1\LeaveTracker.csprojAssemblyReference.cache
+E:\Assignment_01\leavetracker\src\LeaveTracker\obj\Debug\netcoreapp3.1\LeaveTracker.AssemblyInfoInputs.cache
+E:\Assignment_01\leavetracker\src\LeaveTracker\obj\Debug\netcoreapp3.1\LeaveTracker.AssemblyInfo.cs
+E:\Assignment_01\leavetracker\src\LeaveTracker\obj\Debug\netcoreapp3.1\LeaveTracker.csproj.CoreCompileInputs.cache
+E:\Assignment_01\leavetracker\src\LeaveTracker\obj\Debug\netcoreapp3.1\LeaveTracker.dll
+E:\Assignment_01\leavetracker\src\LeaveTracker\obj\Debug\netcoreapp3.1\LeaveTracker.pdb
+E:\Assignment_01\leavetracker\src\LeaveTracker\obj\Debug\netcoreapp3.1\LeaveTracker.genruntimeconfig.cache
